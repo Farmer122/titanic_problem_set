@@ -1,0 +1,13 @@
+name: titanic_venv
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - scikit-learn
+  - wordcloud
+  - matplotlib
+  - pathlib
+  - seaborn
+  - numpy
+prefix: /Users/jamallawal/opt/miniconda3/envs/titanic_venv
